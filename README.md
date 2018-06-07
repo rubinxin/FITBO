@@ -25,11 +25,11 @@ FITBOacq.m is the function for Fast Information-theoretic Bayesian optimization.
 Please cite our paper if you would like to use the code.
 
 ```
-@article{ru2017fast,
+@inproceedings{ru2018fast,
   title={Fast Information-theoretic Bayesian Optimisation},
-  author={Ru, Binxin and Osborne, Michael and McLeod, Mark},
-  journal={arXiv preprint arXiv:1711.00673},
-  year={2017}
+  author={Ru, Binxin and McLeod, Mark and Granziol, Diego and Osborne, Michael A.},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2018}
 }
 ```
 ## Reference
